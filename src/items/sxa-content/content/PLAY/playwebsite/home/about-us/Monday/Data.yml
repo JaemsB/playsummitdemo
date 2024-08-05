@@ -1,0 +1,18 @@
+﻿---
+ID: "c2763c70-d151-4685-a77e-5fa8f27ae870"
+Parent: "9856dfcf-e56d-4222-b0ef-68ce0c8b9c6c"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/PLAY/playwebsite/home/about-us/Monday/Data"
+BranchID: "757e8bd1-9a5e-416c-ad3f-c7a22981d285"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{CE55A51D-753E-4F2C-9184-B795EF200CBF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4180b9c0-1c4a-4b67-ba95-7b2278f45cf6"
