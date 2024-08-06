@@ -14,7 +14,7 @@ Languages:
     - ID: "57caf172-ce57-4e48-b3a1-46f8aea71c08"
       Hint: Image
       Value: |
-        <image src="https://jamesbplaydemolatest.sitecoresandbox.cloud/api/public/content/5ed38fc334a64273a5e9845b3e06edec?v=c227eb7b" dam-id="4SWDr9Dknkqx5LyRfily_g" width="4000" height="2183" alt="Cycling group" dam-content-type="Image" thumbnailsrc="https://jamesbplaydemolatest.sitecoresandbox.cloud/api/gateway/38290/thumbnail" />
+        <image mediaid="1fa040a5-88b0-43a7-be2f-36ac627bfd9e" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8b33246c-e023-4688-ab2b-b0388e4015e5"
+      Value: "84febeaa-2cd6-4a60-be90-393b4aa88e11"

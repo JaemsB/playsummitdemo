@@ -1,0 +1,20 @@
+﻿---
+ID: "e2310755-acdd-4f42-9111-fc989fd5e03b"
+Parent: "bf94549f-5b24-4cee-a5a7-192786e853f8"
+Template: "45b5d66a-5929-471b-8a08-24c3d77c2392"
+Path: /sitecore/system/Workflows/Demo Workflow/Draft/Submit/Webhook Submit Action
+SharedFields:
+- ID: "70bcf39c-e567-4bc5-9dfa-3503810ef820"
+  Hint: Enabled
+  Value: 1
+- ID: "f9f59338-045d-4da8-80f0-ce7f7d92e4af"
+  Hint: Url
+  Value: "https://webhooks.workato.com/webhooks/rest/29c63ba9-7641-44eb-8b84-86b061933183/workbox-send-for-approval"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a1a82a6e-3f6a-4fc2-a906-3c7c971b28a9"

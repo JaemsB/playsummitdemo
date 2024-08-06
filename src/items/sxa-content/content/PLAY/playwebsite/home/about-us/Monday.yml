@@ -3,7 +3,6 @@ ID: "9856dfcf-e56d-4222-b0ef-68ce0c8b9c6c"
 Parent: "2717574c-48a0-5469-85a8-a332df71f1e4"
 Template: "95cb88e7-8068-4a9c-9eeb-05f9a22c49d4"
 Path: "/sitecore/content/PLAY/playwebsite/home/about-us/Monday"
-BranchID: "757e8bd1-9a5e-416c-ad3f-c7a22981d285"
 SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
@@ -81,12 +80,27 @@ Languages:
               s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B15C27ABD-0112-46D7-9C95-18F17BF7974E%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
               s:ph="/headless-main/sxa-main/container-1/container-1" />
             <r
+              uid="{FA1A5714-5F36-44B5-B57F-19AA43834E20}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B2181EB9E-2230-405F-AFDF-8D31773C123C%7D&amp;Styles=%7C%7BD5E6CD12-A4CA-49F7-B1C5-832320B2764C%7D&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4" />
+            <r
+              uid="{D89B3E10-37F0-4FCD-BE29-DC10D477347F}"
+              p:after="r[@uid='{FA1A5714-5F36-44B5-B57F-19AA43834E20}']"
+              s:id="{DDC43BE7-D77A-4CE3-9282-03DD036EEC6D}"
+              s:par="ComponentName=SitecoreForm%3FformId%3Dc1cf2733794d4a62ba6428074408b7d4-use&amp;ComponentProps&amp;ComponentLabel=Registration&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+              s:ph="/headless-main/sxa-main/container-1/container-1" />
+            <r
               uid="{A2E1B9C1-3EB5-46E7-9734-72F3A0D72472}">
               <p:da
                 name="ccb" />
               <p:da
                 name="ds" />
             </r>
+            <r
+              uid="{63323779-5C78-4631-8106-EE7343634450}"
+              p:after="*[1=2]"
+              s:id="{B00B0079-2FAF-4BFA-AF3C-4E98EF164C9F}"
+              s:par="Items&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles"
+              s:ph="/headless-main/sxa-main/container-1/container-3" />
           </d>
         </r>
     - ID: "17707054-bc28-496c-925f-e614ba18f3e0"
@@ -97,12 +111,8 @@ Languages:
       Value: Monday
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b9a97e23-6edc-400c-9e65-db2f3cfdfce9"
+      Value: "cf039ca8-5737-4c95-8be6-8cb2b2ed12d1"
     - ID: "e0c0c8a4-0fea-4963-8b86-d47810b80efa"
       Hint: Content
       Value: |
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum rutrum pretium. Vestibulum turpis purus, euismod quis posuere in, porta vel nisl. Nunc id massa viverra metus lacinia pharetra. Donec semper sem nibh, in bibendum est dictum in. Curabitur varius est id interdum fermentum. Nam tempor felis sit amet quam tempor, ac dictum nibh volutpat. Proin ultrices massa varius lobortis molestie. Quisque eu erat lectus. Ut auctor non diam eu ornare. </p>
-        <p>Mauris suscipit massa ac nisi finibus, at hendrerit est tempus. Curabitur tincidunt id urna porttitor commodo.
-        Quisque sit amet orci id felis euismod vulputate vel sed risus. Sed in sapien lobortis erat aliquam tincidunt. Sed ex massa, tempus eget nisi in, vestibulum rutrum lectus. Vivamus accumsan varius augue, a rhoncus ante egestas sit amet. Aenean at dignissim nibh. Morbi eget nisl vitae nisi semper viverra. Maecenas at justo in nibh placerat pulvinar a id lorem. Donec sit amet condimentum tortor. Nam in fringilla mi.
-        Aenean ut leo sed risus egestas facilisis vel sed quam. Nunc blandit, metus vitae accumsan faucibus, nunc tellus auctor dui, ut dictum massa ex ac mauris. </p>
-        <p>Cras lobortis diam eu dui aliquam viverra. Integer in eros vel velit lacinia sagittis. Ut at ligula feugiat, porta orci id, malesuada dolor. In sapien metus, rhoncus ut consectetur ut, fringilla euismod velit. Phasellus eu tortor in erat consectetur interdum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dapibus justo ut mi finibus pellentesque. Aliquam eu sagittis purus. Integer in lectus pulvinar, tempor nunc at, facilisis nibh. Proin eu tellus non purus tempus volutpat ac vitae dolor. Donec quis diam tristique, lobortis metus non, iaculis ante. Nulla at vestibulum tortor, ac pharetra ex. Sed in pretium purus, blandit malesuada quam.</p>
+        <div class="ck-content"><p>Dynamically restore accurate core competencies whereas resource-leveling synergy. Conveniently incentivize transparent niche markets with top-line experiences. Credibly revolutionize cross-platform infrastructures before state of the art relationships. Interactively productivate ubiquitous action items without process-centric catalysts for change. Energistically supply innovative models whereas worldwide leadership skills.</p><p>Progressively streamline synergistic mindshare rather than scalable synergy. Phosfluorescently aggregate 24/7 architectures rather than ubiquitous web services. Quickly scale empowered experiences through cross functional applications. Intrinsicly initiate cutting-edge relationships and unique platforms. Monotonectally repurpose high standards in potentialities whereas frictionless architectures.</p></div>

@@ -186,6 +186,41 @@ Languages:
               <p:d />
             </r>
             <r
+              uid="{368C89F1-3640-58A1-BDE0-A1C0E8426D3E}"
+              s:pt="personalizationTest"
+              s:uid="{368C89F1-3640-58A1-BDE0-A1C0E8426D3E}">
+              <rls>
+                <ruleset
+                  s:pet="true">
+                  <rule
+                    uid="{E86F49F9-C3E6-4BDE-B532-064C08BE5B85}"
+                    s:name="4e700f2d762b46549fa4b924103e765d">
+                    <conditions>
+                      <condition
+                        uid="5E247A0026D641D48B2AD672B97F8205"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="4e700f2d762b46549fa4b924103e765d" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{69AD5CAD-CFDE-49A9-A803-231E205EAB06}"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="34ad6cca-d1a7-41cc-a7e8-7c6462643240" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default">
+                    <conditions>
+                      <condition
+                        uid="CC13455B5ACB42DFA4D30FED5285FC70"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
+            <r
               uid="{EB2C8403-F00A-4976-8C26-75224DD8EBD1}"
               p:after="r[@uid='{45FCA8EC-2A99-531D-B270-0389AB473563}']" />
           </d>
@@ -201,7 +236,7 @@ Languages:
       Value: home
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "89d46dcf-deb9-4f59-9e23-cb60f0aba4ab"
+      Value: "5f7c225d-66a4-4db7-a0e3-26929008bf92"
 - Language: "fr-CA"
   Versions:
   - Version: 1

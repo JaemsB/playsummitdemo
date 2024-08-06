@@ -204,10 +204,10 @@
         "collectionId": "EfQDdUxRmd",
         "name": "Teaser",
         "description": "",
-        "status": "staged",
+        "status": "published",
         "versionCount": 2,
         "stagedVersionCount": 2,
-        "embeddableVersionCount": 0,
+        "embeddableVersionCount": 3,
         "datasourceIds": [],
         "createdAt": "2023-06-08T08:45:02.309Z",
         "stagedAt": "2023-06-08T13:06:57.252Z",
@@ -229,10 +229,10 @@
         "collectionId": "EfQDdUxRmd",
         "name": "Large teaser",
         "description": "",
-        "status": "staged",
+        "status": "published",
         "versionCount": 1,
         "stagedVersionCount": 1,
-        "embeddableVersionCount": 0,
+        "embeddableVersionCount": 2,
         "datasourceIds": [],
         "createdAt": "2023-06-08T09:12:34.113Z",
         "stagedAt": "2023-06-08T13:06:24.758Z",
@@ -268,7 +268,7 @@
         "status": "changed",
         "versionCount": 2,
         "stagedVersionCount": 2,
-        "embeddableVersionCount": 0,
+        "embeddableVersionCount": 2,
         "datasourceIds": [],
         "createdAt": "2023-06-08T09:27:58.572Z",
         "stagedAt": "2023-06-08T14:31:06.461Z",
@@ -290,10 +290,10 @@
         "collectionId": "ZvLugTjxGu",
         "name": "Two product teaser",
         "description": "",
-        "status": "staged",
+        "status": "published",
         "versionCount": 3,
         "stagedVersionCount": 3,
-        "embeddableVersionCount": 0,
+        "embeddableVersionCount": 4,
         "datasourceIds": [],
         "createdAt": "2023-06-08T11:36:57.759Z",
         "stagedAt": "2023-06-08T14:27:31.972Z",
@@ -362,7 +362,7 @@
         "collectionId": "-AC8JhQZKV",
         "name": "Athletes",
         "description": "Sample component featuring Athletes from connected Content Hub ONE instance.",
-        "status": "published",
+        "status": "changed",
         "versionCount": 1,
         "stagedVersionCount": 1,
         "embeddableVersionCount": 1,
@@ -372,16 +372,117 @@
         "createdAt": "2023-11-15T17:27:04.26Z",
         "stagedAt": "2023-11-16T18:10:05.908Z",
         "publishedAt": "2023-11-16T18:10:05.908Z",
-        "modifiedAt": "2023-11-16T18:10:05.908Z",
+        "modifiedAt": "2024-08-06T00:31:14.953Z",
         "modifiedBy": {
-          "id": "63ed31bdc5dac322725263de",
-          "name": "Alexander Doroshenko",
-          "email": "alexander.doroshenko@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/df9103e3d366714986d5e437d998bf3d?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fal.png",
-          "givenName": "Alexander",
-          "familyName": "Doroshenko"
+          "id": "63f77530ea070420c7796ca4",
+          "name": "James Brentano",
+          "email": "james.brentano@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/0b2d0aae602ceb1f9e26f0242a8452a9?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fja.png",
+          "givenName": "James",
+          "familyName": "Brentano"
         },
-        "bundles": []
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "TlH-4IjNyG",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-08-06T00:31:14.461Z",
+            "modifiedAt": "2024-08-06T00:31:14.461Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "libraryId": "generated",
+    "id": "Rj2V2jR4x8",
+    "name": "JamesB",
+    "isDefault": false,
+    "orderIdx": "",
+    "createdAt": "2024-08-06T00:15:53.569Z",
+    "modifiedAt": "2024-08-06T00:15:53.569Z",
+    "components": [
+      {
+        "libraryId": "generated",
+        "id": "EsQ6fKL1sF",
+        "collectionId": "Rj2V2jR4x8",
+        "name": "Demo blog Notice",
+        "description": "",
+        "status": "changed",
+        "versionCount": 1,
+        "stagedVersionCount": 1,
+        "embeddableVersionCount": 1,
+        "datasourceIds": [
+          "WN17hIkwgW"
+        ],
+        "createdAt": "2024-08-06T00:16:02.447Z",
+        "stagedAt": "2024-08-06T00:20:09.827Z",
+        "publishedAt": null,
+        "modifiedAt": "2024-08-06T00:27:33.939Z",
+        "modifiedBy": {
+          "id": "63f77530ea070420c7796ca4",
+          "name": "James Brentano",
+          "email": "james.brentano@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/0b2d0aae602ceb1f9e26f0242a8452a9?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fja.png",
+          "givenName": "James",
+          "familyName": "Brentano"
+        },
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "EsQ6fKL1sF",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-08-06T00:16:27.44Z",
+            "modifiedAt": "2024-08-06T00:16:27.44Z"
+          }
+        ]
+      },
+      {
+        "libraryId": "generated",
+        "id": "50Pwc7MYul",
+        "collectionId": "Rj2V2jR4x8",
+        "name": "Blog Demo",
+        "description": "",
+        "status": "changed",
+        "versionCount": 1,
+        "stagedVersionCount": 0,
+        "embeddableVersionCount": 1,
+        "datasourceIds": [
+          "WN17hIkwgW"
+        ],
+        "createdAt": "2024-08-06T00:20:48.997Z",
+        "stagedAt": null,
+        "publishedAt": null,
+        "modifiedAt": "2024-08-06T00:26:48.217Z",
+        "modifiedBy": {
+          "id": "63f77530ea070420c7796ca4",
+          "name": "James Brentano",
+          "email": "james.brentano@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/0b2d0aae602ceb1f9e26f0242a8452a9?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fja.png",
+          "givenName": "James",
+          "familyName": "Brentano"
+        },
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "50Pwc7MYul",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-08-06T00:21:16.797Z",
+            "modifiedAt": "2024-08-06T00:21:16.797Z"
+          }
+        ]
       }
     ]
   }

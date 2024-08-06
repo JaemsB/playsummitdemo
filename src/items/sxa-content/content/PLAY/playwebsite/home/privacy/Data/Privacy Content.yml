@@ -27,6 +27,32 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "5ff14975-3210-4954-b406-5013f7a14d35"
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "05607296-e17f-567f-898f-46bb9665d619"
+      Hint: title
+      Value: Privacy policy
+    - ID: "348777e9-0329-5c42-a43d-3db7d8a7a748"
+      Hint: content
+      Value: |
+        <p>We will not sell, trade, or broker your personal information that you give to us, including your email, and will only use it for internal purposes.
+        </p>
+        <p>We place various cookies on your browser to understand how you're using the PLAY! Summit website and how we can then provide you with experiences and offers that align with your needs. Some of the cookies are for third parties that help us advertise and measure the impact of our advertising, which is core to our business. If you don't like cookies, then please do not browse the PLAY! Summit website.</p>
+    - ID: "3df1996f-e6b3-52c9-82c7-c8ba54147c1f"
+      Hint: callToActionLink
+      Value: 
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{1A6F7D0E-F404-45BC-836F-8A16143DAA16}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "562cf45f-7f8a-42c0-8c72-5f77c801534c"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20240805T224820Z
 - Language: "fr-CA"
   Versions:
   - Version: 1

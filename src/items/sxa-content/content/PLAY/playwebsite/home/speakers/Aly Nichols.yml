@@ -25,7 +25,7 @@ Languages:
     Fields:
     - ID: "087528fd-b211-4715-aca0-cbe90275951b"
       Hint: Featured
-      Value: 1
+      Value: 
     - ID: "2256955c-26ab-41b5-8e7a-fc504ea1a307"
       Hint: Sponsors
       Value: "{A512C4FC-301E-4191-ADE1-E618F4F6895B}"
@@ -40,7 +40,7 @@ Languages:
       Value: "{63C32663-C4AF-40C0-9347-47411C130E87}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "fb20c0f0-312b-45bf-b26c-21758c1fe9b8"
+      Value: "b171380b-9bb1-4f82-b66f-8062b293b991"
     - ID: "94f8d6fc-b9c3-41dc-8cdf-5e967d108a40"
       Hint: Company
       Value: Pacifique

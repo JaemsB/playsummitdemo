@@ -1,0 +1,72 @@
+[
+  {
+    "libraryId": "generated",
+    "id": "nCRvM0YPHD",
+    "componentId": "EsQ6fKL1sF",
+    "name": "Name",
+    "description": "",
+    "status": "saved",
+    "orderIdx": "03qKK",
+    "revision": 13,
+    "model": "",
+    "view": "<style data-format-version=\"30\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: 6V6eB34Ty6 */ .-grid--custom[data-instance-id=\"6V6eB34Ty6\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px, auto); grid-template-columns: minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"6V6eB34Ty6\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 1; grid-column-end: 9; grid-row: 1; grid-row-end: 5; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"6V6eB34Ty6\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":null}],\"items\":[{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":5,\"column\":9},\"order\":0}]}} */ /* --- */  /* Type: lines Id: o3GCJ2rhrK Instance Id: wUJxOxg-Kx */ .-lines--[data-instance-id=\"wUJxOxg-Kx\"]:not(._._._._._._#_) { text-align: left; ---self--display: -webkit-box; display: var(---self--display); -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: normal; overflow-wrap: normal; } /* Data: {\"type\":\"lines\",\"details\":{\"title\":\"\",\"description\":\"\",\"id\":\"o3GCJ2rhrK\",\"exampleContent\":null,\"instanceId\":\"wUJxOxg-Kx\"},\"props\":{\"textAlign\":\"left\",\"lines\":2,\"ellipsis\":false,\"wordBreak\":\"normal\"}} */ /* --- */  /* Type: media Id: EaoK1oRiKR Instance Id: 6V6eB34Ty6 */ .-media--[data-instance-id=\"6V6eB34Ty6\"][class*=\"-block--media\"]:not(._._._._._._#_) { width: auto; } .-media--[data-instance-id=\"6V6eB34Ty6\"] > picture:not(._._._._._._#_) { position: relative; overflow: hidden; height: auto; } .-media--[data-instance-id=\"6V6eB34Ty6\"] > picture > img:not(._._._._._._#_) { object-fit: cover; object-position: 50% 50%; } /* Data: {\"type\":\"media\",\"details\":{\"title\":\"\",\"description\":\"\",\"id\":\"EaoK1oRiKR\",\"exampleContent\":null,\"instanceId\":\"6V6eB34Ty6\"},\"props\":{\"width\":null,\"height\":null,\"objectFit\":\"cover\",\"objectPositionX\":{\"value\":50,\"unit\":\"%\"},\"objectPositionY\":{\"value\":50,\"unit\":\"%\"}}} */</style><section class=\"-grid--custom -has--background -media--\" data-instance-id=\"6V6eB34Ty6\"><div class=\"-card\"><h3><var data-path=\"WN17hIkwgW.data.allM_Content_Blog.results.*.blog_Title\"></var></h3><p class=\"-lines--\" data-instance-id=\"wUJxOxg-Kx\"><var data-path=\"WN17hIkwgW.data.allM_Content_Blog.results.*.blog_Body\"></var></p><button>Click me</button></div><picture class=\"-image--background\"><img src=\"https://fastly.picsum.photos/id/184/4288/2848.jpg?hmac=l0fKWzmWf6ISTPMEm1WjRdxn35sg6U3GwZLn5lvKhTI\" /></picture></section>",
+    "diff": {},
+    "breakpointIds": null,
+    "datasourceIds": [
+      "WN17hIkwgW"
+    ],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--translucent"
+    ],
+    "createdAt": "2024-08-06T00:16:28.064Z",
+    "deletedAt": null,
+    "modifiedAt": "2024-08-06T00:27:33.939Z",
+    "modifiedBy": {
+      "id": "63f77530ea070420c7796ca4",
+      "name": "James Brentano",
+      "givenName": "James",
+      "familyName": "Brentano",
+      "email": "james.brentano@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/0b2d0aae602ceb1f9e26f0242a8452a9?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fja.png"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "nCRvM0YPHD",
+    "componentId": "EsQ6fKL1sF",
+    "name": "Name",
+    "description": "",
+    "status": "staged",
+    "orderIdx": "03qKK",
+    "revision": 12,
+    "model": "",
+    "view": "<style data-format-version=\"30\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: 6V6eB34Ty6 */ .-grid--custom[data-instance-id=\"6V6eB34Ty6\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px, auto); grid-template-columns: minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"6V6eB34Ty6\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 1; grid-column-end: 9; grid-row: 1; grid-row-end: 5; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"6V6eB34Ty6\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":null}],\"items\":[{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":5,\"column\":9},\"order\":0}]}} */ /* --- */  /* Type: lines Id: o3GCJ2rhrK Instance Id: wUJxOxg-Kx */ .-lines--[data-instance-id=\"wUJxOxg-Kx\"]:not(._._._._._._#_) { text-align: left; ---self--display: -webkit-box; display: var(---self--display); -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: normal; overflow-wrap: normal; } /* Data: {\"type\":\"lines\",\"details\":{\"title\":\"\",\"description\":\"\",\"id\":\"o3GCJ2rhrK\",\"exampleContent\":null,\"instanceId\":\"wUJxOxg-Kx\"},\"props\":{\"textAlign\":\"left\",\"lines\":2,\"ellipsis\":false,\"wordBreak\":\"normal\"}} */ /* --- */  /* Type: media Id: EaoK1oRiKR Instance Id: 6V6eB34Ty6 */ .-media--[data-instance-id=\"6V6eB34Ty6\"][class*=\"-block--media\"]:not(._._._._._._#_) { width: auto; } .-media--[data-instance-id=\"6V6eB34Ty6\"] > picture:not(._._._._._._#_) { position: relative; overflow: hidden; height: auto; } .-media--[data-instance-id=\"6V6eB34Ty6\"] > picture > img:not(._._._._._._#_) { object-fit: cover; object-position: 50% 50%; } /* Data: {\"type\":\"media\",\"details\":{\"title\":\"\",\"description\":\"\",\"id\":\"EaoK1oRiKR\",\"exampleContent\":null,\"instanceId\":\"6V6eB34Ty6\"},\"props\":{\"width\":null,\"height\":null,\"objectFit\":\"cover\",\"objectPositionX\":{\"value\":50,\"unit\":\"%\"},\"objectPositionY\":{\"value\":50,\"unit\":\"%\"}}} */</style><section class=\"-grid--custom -has--background -media--\" data-instance-id=\"6V6eB34Ty6\"><div class=\"-card\"><h3><var data-path=\"WN17hIkwgW.data.allM_Content_Blog.results.*.blog_Title\"></var></h3><p class=\"-lines--\" data-instance-id=\"wUJxOxg-Kx\"><var data-path=\"WN17hIkwgW.data.allM_Content_Blog.results.*.blog_Body\"></var></p><button>Click me</button></div><picture class=\"-image--background\"><img src=\"https://fastly.picsum.photos/id/184/4288/2848.jpg?hmac=l0fKWzmWf6ISTPMEm1WjRdxn35sg6U3GwZLn5lvKhTI\" /></picture></section>",
+    "diff": {},
+    "breakpointIds": null,
+    "datasourceIds": [
+      "WN17hIkwgW"
+    ],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--dark-theme"
+    ],
+    "createdAt": "2024-08-06T00:16:28.064Z",
+    "deletedAt": null,
+    "modifiedAt": "2024-08-06T00:20:09.827Z",
+    "modifiedBy": {
+      "id": "63f77530ea070420c7796ca4",
+      "name": "James Brentano",
+      "givenName": "James",
+      "familyName": "Brentano",
+      "email": "james.brentano@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/0b2d0aae602ceb1f9e26f0242a8452a9?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fja.png"
+    }
+  }
+]
