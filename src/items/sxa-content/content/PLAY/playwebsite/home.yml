@@ -180,7 +180,8 @@ Languages:
               p:before="*" />
             <r
               uid="{9C37536D-E2AA-5BF2-8103-FA15D43F5121}"
-              p:after="r[@uid='{F9156FD3-6D12-4E0B-9B1F-0D4AC1A772C7}']" />
+              p:after="r[@uid='{F9156FD3-6D12-4E0B-9B1F-0D4AC1A772C7}']"
+              s:par="Items=3&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles" />
             <r
               uid="{9079BFE6-D63C-4BAC-AD53-5D0B06100CD1}">
               <p:d />
@@ -223,6 +224,9 @@ Languages:
             <r
               uid="{EB2C8403-F00A-4976-8C26-75224DD8EBD1}"
               p:after="r[@uid='{45FCA8EC-2A99-531D-B270-0389AB473563}']" />
+            <r
+              uid="{004EEEA1-32B0-4582-BD0C-FA7EFFB14182}"
+              s:par="FieldNames&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;Styles&amp;CSSStyles" />
           </d>
         </r>
     - ID: "17707054-bc28-496c-925f-e614ba18f3e0"
@@ -236,7 +240,7 @@ Languages:
       Value: home
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5f7c225d-66a4-4db7-a0e3-26929008bf92"
+      Value: "a1509c81-d752-4c12-99eb-7fd7f41e3496"
 - Language: "fr-CA"
   Versions:
   - Version: 1

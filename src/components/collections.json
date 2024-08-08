@@ -370,7 +370,7 @@
           "Athlete"
         ],
         "createdAt": "2023-11-15T17:27:04.26Z",
-        "stagedAt": "2023-11-16T18:10:05.908Z",
+        "stagedAt": null,
         "publishedAt": "2023-11-16T18:10:05.908Z",
         "modifiedAt": "2024-08-06T00:31:14.953Z",
         "modifiedBy": {
@@ -381,19 +381,7 @@
           "givenName": "James",
           "familyName": "Brentano"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "TlH-4IjNyG",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-08-06T00:31:14.461Z",
-            "modifiedAt": "2024-08-06T00:31:14.461Z"
-          }
-        ]
+        "bundles": []
       }
     ]
   },
@@ -412,7 +400,7 @@
         "collectionId": "Rj2V2jR4x8",
         "name": "Demo blog Notice",
         "description": "",
-        "status": "changed",
+        "status": "staged",
         "versionCount": 1,
         "stagedVersionCount": 1,
         "embeddableVersionCount": 1,
@@ -420,9 +408,9 @@
           "WN17hIkwgW"
         ],
         "createdAt": "2024-08-06T00:16:02.447Z",
-        "stagedAt": "2024-08-06T00:20:09.827Z",
+        "stagedAt": "2024-08-07T20:11:27.997Z",
         "publishedAt": null,
-        "modifiedAt": "2024-08-06T00:27:33.939Z",
+        "modifiedAt": "2024-08-07T20:11:27.997Z",
         "modifiedBy": {
           "id": "63f77530ea070420c7796ca4",
           "name": "James Brentano",
@@ -440,8 +428,8 @@
             "description": "",
             "breakpoints": {},
             "orderIdx": "",
-            "createdAt": "2024-08-06T00:16:27.44Z",
-            "modifiedAt": "2024-08-06T00:16:27.44Z"
+            "createdAt": "2024-08-06T16:49:00.311Z",
+            "modifiedAt": "2024-08-06T16:49:00.311Z"
           }
         ]
       },
@@ -451,15 +439,15 @@
         "collectionId": "Rj2V2jR4x8",
         "name": "Blog Demo",
         "description": "",
-        "status": "changed",
+        "status": "staged",
         "versionCount": 1,
-        "stagedVersionCount": 0,
+        "stagedVersionCount": 1,
         "embeddableVersionCount": 1,
         "datasourceIds": [
           "WN17hIkwgW"
         ],
         "createdAt": "2024-08-06T00:20:48.997Z",
-        "stagedAt": null,
+        "stagedAt": "2024-08-06T00:26:48.217Z",
         "publishedAt": null,
         "modifiedAt": "2024-08-06T00:26:48.217Z",
         "modifiedBy": {
@@ -479,8 +467,8 @@
             "description": "",
             "breakpoints": {},
             "orderIdx": "",
-            "createdAt": "2024-08-06T00:21:16.797Z",
-            "modifiedAt": "2024-08-06T00:21:16.797Z"
+            "createdAt": "2024-08-06T16:49:15.141Z",
+            "modifiedAt": "2024-08-06T16:49:15.141Z"
           }
         ]
       }
