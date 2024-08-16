@@ -419,19 +419,7 @@
           "givenName": "James",
           "familyName": "Brentano"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "EsQ6fKL1sF",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-08-06T16:49:00.311Z",
-            "modifiedAt": "2024-08-06T16:49:00.311Z"
-          }
-        ]
+        "bundles": []
       },
       {
         "libraryId": "generated",
@@ -458,19 +446,7 @@
           "givenName": "James",
           "familyName": "Brentano"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "50Pwc7MYul",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-08-06T16:49:15.141Z",
-            "modifiedAt": "2024-08-06T16:49:15.141Z"
-          }
-        ]
+        "bundles": []
       }
     ]
   }
