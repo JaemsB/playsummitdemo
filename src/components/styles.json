@@ -10269,7 +10269,7 @@
           "opacity": 1,
           "backgroundSize": "cover",
           "backgroundColor": {
-            "id": "Rg_Dq205xG",
+            "id": "xUmCzqGym8",
             "alpha": 0.6
           },
           "backgroundImage": "",
@@ -13167,9 +13167,9 @@
     ],
     "formatVersion": 30,
     "status": "staged",
-    "revision": 197,
+    "revision": 199,
     "createdAt": "2023-04-19T11:06:04.912Z",
-    "modifiedAt": "2024-08-06T00:28:04.032Z"
+    "modifiedAt": "2024-08-06T00:29:30.822Z"
   },
   {
     "libraryId": "generated",
@@ -13228,19 +13228,6 @@
         }
       },
       {
-        "type": "collection",
-        "props": {
-          "type": "breakpoint"
-        },
-        "details": {
-          "id": "large-collection",
-          "slug": "large",
-          "title": "Large",
-          "description": "Large tables, desktops, tvs",
-          "exampleContent": null
-        }
-      },
-      {
         "type": "breakpoint",
         "props": {
           "query": "(min-width: 1536px)",
@@ -13289,19 +13276,6 @@
         }
       },
       {
-        "type": "collection",
-        "props": {
-          "type": "breakpoint"
-        },
-        "details": {
-          "id": "medium-collection",
-          "slug": "medium",
-          "title": "Medium",
-          "description": "Phones in landscape, tablets",
-          "exampleContent": null
-        }
-      },
-      {
         "type": "breakpoint",
         "props": {
           "query": "(min-width: 768px) and (max-width: 1023px)",
@@ -13314,19 +13288,6 @@
           "title": "Medium",
           "description": "",
           "collectionId": "medium-collection",
-          "exampleContent": null
-        }
-      },
-      {
-        "type": "collection",
-        "props": {
-          "type": "breakpoint"
-        },
-        "details": {
-          "id": "small-collection",
-          "slug": "small",
-          "title": "Small",
-          "description": "Mobile phones and tiny screens",
           "exampleContent": null
         }
       },
@@ -13359,6 +13320,45 @@
           "title": "Extra small",
           "description": "",
           "collectionId": "small-collection",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "collection",
+        "props": {
+          "type": "breakpoint"
+        },
+        "details": {
+          "id": "large-collection",
+          "slug": "large",
+          "title": "Large",
+          "description": "Large tables, desktops, tvs",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "collection",
+        "props": {
+          "type": "breakpoint"
+        },
+        "details": {
+          "id": "medium-collection",
+          "slug": "medium",
+          "title": "Medium",
+          "description": "Phones in landscape, tablets",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "collection",
+        "props": {
+          "type": "breakpoint"
+        },
+        "details": {
+          "id": "small-collection",
+          "slug": "small",
+          "title": "Small",
+          "description": "Mobile phones and tiny screens",
           "exampleContent": null
         }
       },
@@ -16855,8 +16855,8 @@
           "opacity": 1,
           "backgroundSize": "cover",
           "backgroundColor": {
-            "id": "Rg_Dq205xG",
-            "alpha": 1
+            "id": "xUmCzqGym8",
+            "alpha": 0.6
           },
           "backgroundImage": "",
           "backgroundRepeat": "repeat",
@@ -16876,7 +16876,7 @@
         "details": {
           "id": "1b9SuTpD8i",
           "slug": "background--medium",
-          "title": "Medium",
+          "title": "Medium Translucent",
           "description": "",
           "collectionId": "rf6H93mUS8",
           "exampleContent": null
@@ -19401,12 +19401,360 @@
           "collectionId": "media",
           "exampleContent": null
         }
+      },
+      {
+        "type": "theme",
+        "props": {
+          "texts": [
+            {
+              "id": "KYTOFrfZU9",
+              "refId": "8qi4RGMqnB",
+              "fillId": null,
+              "isDefault": false,
+              "paletteId": "Q4w-MvbCu9",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "oTvLMrp14J"
+            },
+            {
+              "id": "WJQ8oZqn9I",
+              "refId": "p6t3dSbg6H",
+              "fillId": null,
+              "isDefault": false,
+              "paletteId": "qryN94384d",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "gL3xtt-Bg5"
+            },
+            {
+              "id": "vKwb33OVb3",
+              "refId": "fIdazH01qt",
+              "fillId": null,
+              "isDefault": false,
+              "paletteId": "swM-E0zF2E",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "bXarPFuq9t"
+            },
+            {
+              "id": "FFCt6wkTv8",
+              "refId": "WMSqiw1d4F",
+              "fillId": null,
+              "isDefault": true,
+              "paletteId": "8j3isVjwUJ",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "t9Xv6qJoSV"
+            },
+            {
+              "id": "r85iemqygk",
+              "refId": "_hG7Uv8dxN",
+              "fillId": null,
+              "isDefault": false,
+              "paletteId": "kSaxEKvMnO",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "bITbO3sguP"
+            },
+            {
+              "id": "4VFS9mNja9",
+              "refId": "bPZx9IBwUY",
+              "fillId": null,
+              "isDefault": false,
+              "paletteId": "O1eYIfir6n",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "5cYQlNkJaB"
+            },
+            {
+              "id": "WS60Mrd3D5",
+              "refId": "8qi4RGMqnB",
+              "fillId": null,
+              "isDefault": true,
+              "paletteId": "Q4w-MvbCu9",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "CIyhKLu_rM"
+            },
+            {
+              "id": "F6IfDXn1_t",
+              "refId": "p6t3dSbg6H",
+              "fillId": null,
+              "isDefault": true,
+              "paletteId": "qryN94384d",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "lHe3CbMzg4"
+            },
+            {
+              "id": "qtRSf0xvf0",
+              "refId": "fIdazH01qt",
+              "fillId": null,
+              "isDefault": true,
+              "paletteId": "swM-E0zF2E",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "goI1iUNxJF"
+            },
+            {
+              "id": "Erxc0Lp1xn",
+              "refId": "_hG7Uv8dxN",
+              "fillId": null,
+              "isDefault": true,
+              "paletteId": "kSaxEKvMnO",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "NT2fjqzWCn"
+            },
+            {
+              "id": "fdEN3Whoh4",
+              "refId": "bPZx9IBwUY",
+              "fillId": null,
+              "isDefault": false,
+              "paletteId": "O1eYIfir6n",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "ea08aE999u"
+            },
+            {
+              "id": "g0gL_TzN1x",
+              "refId": "WMSqiw1d4F",
+              "fillId": null,
+              "isDefault": false,
+              "paletteId": "8j3isVjwUJ",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "bPRZpkPGm3"
+            },
+            {
+              "id": "NvMdib5cwM",
+              "refId": "WMSqiw1d4F",
+              "fillId": null,
+              "isDefault": false,
+              "paletteId": "8j3isVjwUJ",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "bPRZpkPGm3"
+            },
+            {
+              "id": "7_zAn5ADOW",
+              "refId": "WMSqiw1d4F",
+              "fillId": null,
+              "isDefault": false,
+              "paletteId": "8j3isVjwUJ",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "9ZmQzv7bJs"
+            },
+            {
+              "id": "u8k_y_5DrB",
+              "refId": "WMSqiw1d4F",
+              "fillId": null,
+              "isDefault": false,
+              "paletteId": "8j3isVjwUJ",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "6k5MuOe9bv"
+            },
+            {
+              "id": "-bxA5OtB82",
+              "refId": "U2kaqWnJrq",
+              "fillId": null,
+              "isDefault": false,
+              "paletteId": "28CkQNa49k",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "6k5MuOe9bv"
+            },
+            {
+              "id": "woc00bDDKr",
+              "refId": "qLo9y3YtcW",
+              "fillId": null,
+              "isDefault": false,
+              "paletteId": "n24STfiPyK",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "6k5MuOe9bv"
+            },
+            {
+              "id": "Tqu0Pb2JVW",
+              "refId": "2YHjUrc-vd",
+              "fillId": null,
+              "isDefault": true,
+              "paletteId": "wktAH1hePp",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "6k5MuOe9bv"
+            }
+          ],
+          "blocks": [
+            {
+              "id": "cLQudCSWYN",
+              "refId": "ivCoksVGRA",
+              "fillId": "iVM7dB56S7",
+              "isDefault": true,
+              "paletteId": null,
+              "spacingId": "0kqR_4XVwY",
+              "decorationId": "blank-decoration",
+              "typographyId": null
+            },
+            {
+              "id": "1KRrJ4EbhM",
+              "refId": "luY3EIfL5N",
+              "fillId": "iVM7dB56S7",
+              "isDefault": true,
+              "paletteId": null,
+              "spacingId": "blank-spacing",
+              "decorationId": "blank-decoration",
+              "typographyId": null
+            },
+            {
+              "id": "MgaaMTmguH",
+              "refId": "luY3EIfL5N",
+              "fillId": "blank-fill",
+              "isDefault": false,
+              "paletteId": null,
+              "spacingId": "blank-spacing",
+              "decorationId": "blank-decoration",
+              "typographyId": null
+            },
+            {
+              "id": "k0ApSB8eZ5",
+              "refId": "uXL9mhsLXT",
+              "fillId": "1b9SuTpD8i",
+              "isDefault": true,
+              "paletteId": null,
+              "spacingId": "szod232_Wc",
+              "decorationId": "blank-decoration",
+              "typographyId": null
+            },
+            {
+              "id": "rDhEwSWBtZ",
+              "refId": "wSqk-cSfCP",
+              "fillId": "bqh80E96pi",
+              "isDefault": false,
+              "paletteId": null,
+              "spacingId": "szod232_Wc",
+              "decorationId": "blank-decoration",
+              "typographyId": null
+            },
+            {
+              "id": "jqOx33Lx4Z",
+              "refId": "uXL9mhsLXT",
+              "fillId": "iVM7dB56S7",
+              "isDefault": false,
+              "paletteId": null,
+              "spacingId": "szod232_Wc",
+              "decorationId": "blank-decoration",
+              "typographyId": null
+            },
+            {
+              "id": "DYa2WPFkVQ",
+              "refId": "luY3EIfL5N",
+              "fillId": "UokB6Zt4rZ",
+              "isDefault": false,
+              "paletteId": null,
+              "spacingId": null,
+              "decorationId": "blank-decoration",
+              "typographyId": null
+            },
+            {
+              "id": "4HvLt83k7G",
+              "refId": "7c7fFKn4Cu",
+              "fillId": "blank-fill",
+              "isDefault": true,
+              "paletteId": null,
+              "spacingId": "blank-spacing",
+              "decorationId": "blank-decoration",
+              "typographyId": null
+            }
+          ],
+          "inlines": [
+            {
+              "id": "50nmDlSB-n",
+              "refId": "RBvBxOuKuf",
+              "fillId": "blank-fill",
+              "isDefault": false,
+              "paletteId": "5vMnIzNOA_",
+              "spacingId": "0vypQ0bneW",
+              "decorationId": "5FnOu_-KUy",
+              "typographyId": "JZEwCy6K4L"
+            },
+            {
+              "id": "JyNLKIiP1_",
+              "refId": "FTbDUvT_Zm",
+              "fillId": "blank-fill",
+              "isDefault": true,
+              "paletteId": "9XwyI107PZ",
+              "spacingId": "blank-spacing",
+              "decorationId": "blank-decoration",
+              "typographyId": "blank-typography"
+            },
+            {
+              "id": "ZSe-QFWwiT",
+              "refId": "EzVS_icaO5",
+              "fillId": "pF_Hh-rQja",
+              "isDefault": true,
+              "paletteId": "h_YB1KgKAF",
+              "spacingId": "0vypQ0bneW",
+              "decorationId": "_d1gf1veM9",
+              "typographyId": "JZEwCy6K4L"
+            },
+            {
+              "id": "Qwil-jkf5C",
+              "refId": "dA5GlO1hZk",
+              "fillId": "blank-fill",
+              "isDefault": false,
+              "paletteId": "oYpr__d9e3",
+              "spacingId": "blank-spacing",
+              "decorationId": "blank-decoration",
+              "typographyId": "JZEwCy6K4L"
+            },
+            {
+              "id": "REn91dzOSh",
+              "refId": "eKjMaDs-Jd",
+              "fillId": "UokB6Zt4rZ",
+              "isDefault": true,
+              "paletteId": "TOqbXq4kuL",
+              "spacingId": "Hx1h8szlLy",
+              "decorationId": "piaVreDzqO",
+              "typographyId": "WR8zc3dtGq"
+            },
+            {
+              "id": "t7ehJDdmJf",
+              "refId": "iUNCGbxcem",
+              "fillId": "blank-fill",
+              "isDefault": true,
+              "paletteId": "402-IZIWW5",
+              "spacingId": "blank-spacing",
+              "decorationId": "blank-decoration",
+              "typographyId": "6k5MuOe9bv"
+            },
+            {
+              "id": "OAEkDXlf0j",
+              "refId": "rHDviCl63_",
+              "fillId": "blank-fill",
+              "isDefault": true,
+              "paletteId": "3HCzvG-_rC",
+              "spacingId": "blank-spacing",
+              "decorationId": "blank-decoration",
+              "typographyId": "6k5MuOe9bv"
+            }
+          ]
+        },
+        "details": {
+          "id": "_0M0XGFXxc",
+          "slug": "translucent",
+          "title": "Translucent",
+          "description": "",
+          "exampleContent": null
+        }
       }
     ],
     "formatVersion": 30,
     "status": "published",
-    "revision": 189,
+    "revision": 199,
     "createdAt": "2023-04-19T11:06:04.912Z",
-    "modifiedAt": "2023-07-07T13:45:58.328Z"
+    "modifiedAt": "2024-08-06T00:29:30.822Z"
   }
 ]

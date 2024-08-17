@@ -3,7 +3,6 @@ ID: "5e08aaf8-db07-445f-9838-55ea6510ca29"
 Parent: "affd2214-1e2d-44b3-9339-e34406cf0232"
 Template: "dfed4457-d760-457a-bec1-c0dccdc44381"
 Path: "/sitecore/content/PLAY/playwebsite/home/landing-pages/Happy Times/Data/Happy Promo"
-BranchID: "c21cb9f5-9d4c-4904-b199-538835128fa3"
 SharedFields:
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
@@ -21,14 +20,15 @@ Languages:
       Value: "<p>Assertively evolve client-focused deliverables without magnetic customer service. Continually integrate magnetic applications for high-payoff scenarios.&nbsp;</p>"
     - ID: "28079f3a-896b-4273-be5f-59d0ebb7cd7d"
       Hint: PromoText
-      Value: <p>Rapidiously leverage existing enabled action items through multifunctional deliverables</p>
+      Value: |
+        <div class="ck-content"><p>Rapidiously leverage existing enabled action items&nbsp;</p></div>
     - ID: "739c6cc2-0031-463d-9599-13478fd50ee3"
       Hint: PromoIcon2
       Value: |
         <image mediaid="{CCAA3DA2-F72A-4AED-8B44-674BBD9DC5A6}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "12db9d43-9d31-497a-9ba6-2d32f07ac40b"
+      Value: "8ab43c50-1855-4b06-b5f2-96a64844dfb9"
     - ID: "c6e604c3-5371-4e67-83df-a09a5ea66249"
       Hint: PromoText3
       Value: "<p>Proactively syndicate quality e-markets without global schemas.</p>"
