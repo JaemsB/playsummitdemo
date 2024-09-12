@@ -1,11 +1,11 @@
 {
-  "clientKey": "3509a0a2b7cc0542af1e697ea16dafe9",
-  "href": "https://api-us.boxever.com/v3/flowDefinitions/eae5cd73-856d-4f52-b02b-c6a382e3c8c3",
-  "ref": "eae5cd73-856d-4f52-b02b-c6a382e3c8c3",
+  "clientKey": "84c3696ed849ab686bb60d0058523ef9",
+  "href": "https://api-us.boxever.com/v3/flowDefinitions/b1c72441-303c-43cc-a1a2-1f930d297cfd",
+  "ref": "b1c72441-303c-43cc-a1a2-1f930d297cfd",
   "name": "embedded_{scope}_2d1d7aca95975ca685b29b04907e4298_en",
-  "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
-  "modifiedAt": "2024-09-06T16:32:30.485Z",
-  "revision": 26,
+  "modifiedByRef": "Ub7x6sEoPLwXjVuenV6Knbn8KanIQMNf@clients",
+  "modifiedAt": "2024-09-12T00:54:35.844Z",
+  "revision": 2,
   "archived": false,
   "friendlyId": "embedded_{scope}_2d1d7aca95975ca685b29b04907e4298_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -20,7 +20,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2024-09-06T16:32:30.611Z",
+    "modifiedAt": "2024-09-12T00:54:35.989Z",
     "splits": [
       {
         "template": "{\"variantId\": \"445bdf88528b4f90a9553c836d119d04\"}",
@@ -61,7 +61,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "57f5c66e-93c7-4ceb-89e1-57c4b48f3642",
+      "ref": "df5e24ed-a01b-46ce-ab02-57686a90fc5e",
       "name": "Outdoor campaign",
       "tasks": [
         {
@@ -97,7 +97,7 @@
     "startDate": "2024-07-23T17:05:22.235Z"
   },
   "revisions": {
-    "href": "https://api-us.boxever.com/v3/flowDefinitions/eae5cd73-856d-4f52-b02b-c6a382e3c8c3/revisions"
+    "href": "https://api-us.boxever.com/v3/flowDefinitions/b1c72441-303c-43cc-a1a2-1f930d297cfd/revisions"
   },
   "sampleSizeConfig": {
     "baseValue": 0.15,
