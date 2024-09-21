@@ -4,8 +4,8 @@
   "ref": "eae5cd73-856d-4f52-b02b-c6a382e3c8c3",
   "name": "embedded_{scope}_2d1d7aca95975ca685b29b04907e4298_en",
   "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
-  "modifiedAt": "2024-09-12T14:26:32.195Z",
-  "revision": 28,
+  "modifiedAt": "2024-09-20T22:19:47.894Z",
+  "revision": 30,
   "archived": false,
   "friendlyId": "embedded_{scope}_2d1d7aca95975ca685b29b04907e4298_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -20,7 +20,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2024-09-12T14:26:32.32Z",
+    "modifiedAt": "2024-09-20T22:19:48.026Z",
     "splits": [
       {
         "template": "{\"variantId\": \"445bdf88528b4f90a9553c836d119d04\"}",
@@ -61,7 +61,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "7ececc93-5f91-460d-ba6d-a7959a4d5f0f",
+      "ref": "f22c22d2-5355-4b4e-915e-5c01bc71730f",
       "name": "Outdoor campaign",
       "tasks": [
         {
