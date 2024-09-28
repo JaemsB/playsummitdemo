@@ -11,3 +11,11 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "5cdf14e6-5449-4fa4-aefd-fdc44f2e1413"
+  - Version: 2
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "da913a62-f6ca-4eb7-8ff1-4d584e0fc51a"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20240925T220047Z
